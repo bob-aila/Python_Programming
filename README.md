@@ -12,5 +12,6 @@
   * write
   * etc
 # Local GIT `Version control`
--File 1 for Git vesrion control notes and guide
--File 2 for Hist of Commands
+
+- File 1 for Git vesrion control notes and guide
+- File 2 for Hist of Commands
